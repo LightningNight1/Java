@@ -1,0 +1,11 @@
+янв. 28, 2023 12:47:47 PM sem.sem2.task2.HW2 main
+INFO: Sat Jan 28 12:47:46 MSK 2023
+янв. 28, 2023 12:47:47 PM sem.sem2.task2.HW2 main
+INFO: The user entered the first number = 9.0
+янв. 28, 2023 12:47:47 PM sem.sem2.task2.HW2 main
+INFO: The user entered the second number = 111.0
+янв. 28, 2023 12:47:47 PM sem.sem2.task2.HW2 main
+INFO: The user entered the operation '*'
+янв. 28, 2023 12:47:47 PM sem.sem2.task2.HW2 main
+INFO: The user received the response : 9.0 * 111.0 = 999.0
+
